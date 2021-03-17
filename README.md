@@ -3,7 +3,7 @@ Descargador automático de videos de OpenFING
 
 Descarga las clases que se deseen de una materia, desde el servidor de OpenFing. Permite descargar múltiples de forma sucesiva, y permite eliminar las anteriores (exclusivamente de la materia a descargar) si ya se vieron.
 
-Para utilizarlo se precisa el código de la clase en OpenFing, que se obtiene del link al curso en OpenFing. Por ejemplo, en el caso de la edición 2019 de Geometría y Álgebra Lineal 1, el link para acceder es https://open.fing.edu.uy/courses/gal119 .
+Para utilizarlo se precisa el código de la clase, que se obtiene del link al curso en OpenFing. Por ejemplo, en el caso de la edición 2019 de Geometría y Álgebra Lineal 1, el link para acceder es https://open.fing.edu.uy/courses/gal119.
 
 En este caso, gal119 es el código del curso, y es el que hay que ingresar cuando el script lo pida.
 
