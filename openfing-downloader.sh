@@ -5,7 +5,7 @@
 #Ingreso de datos
 read -p "Ingrese el código de la materia: " materia
 read -p "Ingrese el número de la primera clase: " primera
-read -p "Ingrese el número de la segunda clase: " segunda
+read -p "Ingrese el número de la última clase: " segunda
 
 #Chequeo
 #Si el segundo número es mayor al primero - no funcionaría el for
