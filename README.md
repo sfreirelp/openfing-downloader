@@ -1,5 +1,5 @@
 # openfing-downloader
-Descargador automático de videos de OpenFING
+Descargador automático de videos de OpenFing
 
 Descarga las clases que se deseen de una materia, desde el servidor de OpenFing. Permite descargar múltiples de forma sucesiva, y permite eliminar las anteriores (exclusivamente de la materia a descargar) si ya se vieron.
 
